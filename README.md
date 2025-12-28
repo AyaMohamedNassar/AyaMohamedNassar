@@ -5,7 +5,18 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AyaMohamedNassar&label=Profile%20views&color=0e75b6&style=flat" alt="AyaMohamedNassar" /> </p>
 
-A highly skilled Full-Stack developer with practical experience gained as a trainee in ITI.
+Greetings! I am Aya Nassar, passionate and enthusiastic Full Stack Web developer - .NET developer - with expertise in building responsive websites. I focus on making good web applications using Advanced Technologies.
+🚀 Skills:
+
+👨‍💻 Backend: Proficient in ASP.NET MVC, and Web API. Mastery of C# programming language for robust backend development. Adept at LINQ, Entity Framework, OOP principles, and implementing Three Layer Architecture with the Repository Design Pattern and unit of work.
+
+👨‍💻 Frontend: I am proficient in building dynamic and responsive user interfaces using Angular, JavaScript, and Typescript. Proficient in HTML5, and CSS3.
+
+👨‍💻 Database: Expertise in working with MSSQL Server, SQL queries, stored procedures and SQL functions.
+👨‍💻 Cloud&DevOps:
+• Knowledgeable in using Docker for containerization and application deployment.
+• Knowledgeable in Azure for cloud services.
+• Proficient in using Git andGitHub.
 
   - How to reach me **Aya.m.nasar@gmail.com**
 

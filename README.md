@@ -54,7 +54,7 @@ Greetings! I am Aya Nassar, passionate and enthusiastic Full Stack Web developer
 
 <img align="center" src="https://github-readme-stats-one.vercel.app/api?username=AyaMohamedNassar&show_icons=true&locale=en" alt="Stats" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=AyaMohamedNassar&theme=github-dark" alt="Streak Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=AyaMohamedNassar&theme=github" alt="Streak Stats" /></p>
 
 
 

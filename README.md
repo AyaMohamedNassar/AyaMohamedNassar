@@ -16,6 +16,7 @@ Greetings! I am Aya Nassar, a passionate and enthusiastic full-stack web develop
 👨‍💻 Database: Expertise in working with MSSQL Server, SQL queries, stored procedures and SQL functions.
 
 👨‍💻 Cloud&DevOps:
+
 • Knowledgeable in using Docker for containerization and application deployment.
 
 • Knowledgeable in Azure for cloud services.

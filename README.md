@@ -5,7 +5,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AyaMohamedNassar&label=Profile%20views&color=0e75b6&style=flat" alt="AyaMohamedNassar" /> </p>
 
-Greetings! I am Aya Nassar, passionate and enthusiastic Full Stack Web developer - .NET developer - with expertise in building responsive websites. I focus on making good web applications using Advanced Technologies.
+Greetings! I am Aya Nassar, a passionate and enthusiastic full-stack web developer and .NET developer with expertise in building responsive websites. I focus on creating high-quality web applications using advanced technologies.
 
 🚀 Skills:
 

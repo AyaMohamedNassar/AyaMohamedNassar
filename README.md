@@ -51,11 +51,6 @@ Greetings! I am Aya Nassar, passionate and enthusiastic Full Stack Web developer
 ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
 
 
-<img align="left" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=AyaMohamedNassar&layout=compact" alt="Top Languages" />
-
-<img align="center" src="https://github-readme-stats-one.vercel.app/api?username=AyaMohamedNassar&show_icons=true&locale=en" alt="Stats" />
-
-<img align="center" src="https://streak-stats.demolab.com/?user=AyaMohamedNassar" alt="Streak" />
 
 
 <!--

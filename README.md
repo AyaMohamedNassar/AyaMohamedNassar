@@ -52,7 +52,7 @@ Greetings! I am Aya Nassar, passionate and enthusiastic Full Stack Web developer
 
 <div align="center">
 
-<img align="left" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=AyaMohamedNassar&layout=compact&hide_border=true" alt="Top Languages" />
+<img align="center" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=AyaMohamedNassar&layout=compact&hide_border=true" alt="Top Languages" />
 
 <img align="center" src="https://github-readme-stats-one.vercel.app/api?username=AyaMohamedNassar&show_icons=true&locale=en&hide_border=true" alt="Stats"  height="160"/>
 

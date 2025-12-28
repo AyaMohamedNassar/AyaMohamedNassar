@@ -14,6 +14,7 @@ Greetings! I am Aya Nassar, passionate and enthusiastic Full Stack Web developer
 👨‍💻 Frontend: I am proficient in building dynamic and responsive user interfaces using Angular, JavaScript, and Typescript. Proficient in HTML5, and CSS3.
 
 👨‍💻 Database: Expertise in working with MSSQL Server, SQL queries, stored procedures and SQL functions.
+
 👨‍💻 Cloud&DevOps:
 • Knowledgeable in using Docker for containerization and application deployment.
 • Knowledgeable in Azure for cloud services.

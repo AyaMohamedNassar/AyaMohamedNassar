@@ -17,8 +17,11 @@ Greetings! I am Aya Nassar, passionate and enthusiastic Full Stack Web developer
 
 👨‍💻 Cloud&DevOps:
 • Knowledgeable in using Docker for containerization and application deployment.
+
 • Knowledgeable in Azure for cloud services.
+
 • Proficient in using Git andGitHub.
+
 
   - How to reach me **Aya.m.nasar@gmail.com**
 
@@ -48,11 +51,11 @@ Greetings! I am Aya Nassar, passionate and enthusiastic Full Stack Web developer
 ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyaMohamedNassar&show_icons=true&locale=en&layout=compact" alt="AyaMohamedNassar" /></p>
+<img align="left" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=AyaMohamedNassar&layout=compact" alt="Top Languages" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyaMohamedNassar&show_icons=true&locale=en" alt="AyaMohamedNassar" /></p>
+<img align="center" src="https://github-readme-stats-one.vercel.app/api?username=AyaMohamedNassar&show_icons=true&locale=en" alt="Stats" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyaMohamedNassar&" alt="AyaMohamedNassar" /></p>
+<img align="center" src="https://streak-stats.demolab.com/?user=AyaMohamedNassar" alt="Streak" />
 
 
 <!--
